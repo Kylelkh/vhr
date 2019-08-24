@@ -1,6 +1,6 @@
 扫码加微信，备注微人事，进群讨论。
 
-![](http://www.javaboy.org/images/weixin.png)
+
 
 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。  
 
@@ -257,4 +257,3 @@ npm run build
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
- 
